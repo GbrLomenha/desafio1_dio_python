@@ -10,7 +10,7 @@ LIMITE = 3
 LIMITE_SAQUE = 500
 sacado = 0
 saques = 0
-saldo = 150
+saldo = 1500
 extrato = "=============EXTRATO============\n"
 
 while True:
